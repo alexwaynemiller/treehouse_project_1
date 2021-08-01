@@ -9,7 +9,7 @@ body {
   text-align: center;
   font-family: 'Roboto', sans-serif;
   color: #222;
-  background: #f7f5f0;
+  background: #9da7a8;
 }
 /* Link Styles */
 
@@ -57,7 +57,7 @@ a:hover {
 
 header {
   text-align: center;
-  background: url(images/drum_stuff.jpeg) no-repeat top center ;
+  background: url(image/drum_stuff.jpg) no-repeat top center ;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
@@ -76,6 +76,7 @@ header .profile-image {
 header .profile-image:hover {
   transform: scale(1.2) rotate(5deg);
 }
+
 .tag {
   background-color: #efefef;
   color: black;
@@ -206,9 +207,6 @@ a.social:hover {
   h2{
     text-align: center;
   }
-
-
-
 
 
 }
