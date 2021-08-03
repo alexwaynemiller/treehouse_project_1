@@ -57,7 +57,7 @@
   
   header {
     text-align: center;
-    background: url(image/drum_stuff.jpg) no-repeat top center ;
+    background: url(images/drum_stuff.jpg) no-repeat top center ;
     background-size: cover;
     overflow: hidden;
     padding-top: 60px
