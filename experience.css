@@ -9,7 +9,7 @@
     text-align: center;
     font-family: 'Roboto', sans-serif;
     color: #222;
-    background: #f7f5f0;
+    background: #d3d3d1;
   }
   /* Link Styles */
   
@@ -70,7 +70,7 @@
     width: 180px;
     height: 155px;
     border-radius: 50%;
-    border: 3px solid white;
+    border: 3px solid black;
     transition: all .5s;
   }
   header .profile-image:hover {
